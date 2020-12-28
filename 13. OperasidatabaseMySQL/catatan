@@ -1,2 +1,3 @@
 npm install routes
 npm install swig
+npm install mysql
